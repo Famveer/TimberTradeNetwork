@@ -1,0 +1,7 @@
+#python 3.12
+pandas
+networkx
+matplotlib
+tqdm
+plotly
+jupyter
